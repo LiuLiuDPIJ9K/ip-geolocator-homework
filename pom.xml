@@ -189,7 +189,7 @@
 	<distributionManagement>
 		<site>
 			<id>shrek</id>
-			<url>scp://@shrek.unideb.hu:2222/home/liu.liu/public_html/${project.artifactId}</url>
+			<url>scp://liu.liu@shrek.unideb.hu:2222/home/liu.liu/public_html/${project.artifactId}</url>
 		</site>
 	</distributionManagement>
 </project>
